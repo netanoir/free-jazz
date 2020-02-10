@@ -12,26 +12,13 @@ View online [here](https://netanoir-free-jazz.glitch.me/).
 ## Setup
 
 <!-- Any knowledge or tools you will need before hand -->
-### Prerequisites
+### Prerequisites and installation
 
 1. Terminal
-2. Git and [github desktop app](https://desktop.github.com/)
+2. [Git](https://git-scm.com/downloads) and [github desktop app](https://desktop.github.com/)
 3. A local server ([Python simple server](https://docs.python.org/2/library/simplehttpserver.html))
 3. A text editor ([VS Code](https://code.visualstudio.com/))
 4. Deployer ([Glitch](https://glitch.me))
-
-<!-- any installation needs should be defined -->
-### Installation
-
-After installing the prerequisites, follow the following steps:
-1. open terminal
-2. navigate to free-jazz directory `cd ../free-jazz`
-3. open project directory in text editor (if using VS code, create and us terminal shell command `code .`)
-4. add/edit your code
-5. open new terminal tab
-6. start local server `python -m SimpleHTTPServer 8000`
-7. open browser and navigate to `localhost:8000` to view your code additions/edits
-8. when ready to publish, add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
 
 <!-- Write instructions on how to start working on your project -->
 ### Develop
@@ -44,6 +31,17 @@ To add to this zine, you can follow the steps provided below:
 5. make a pull request specifying what additions and changes were made
 6. have a nice chat and communication with me about those changes. 
 7. celebrate the contribution! 
+
+### Develop in depth
+After installing the prerequisites, follow the following steps:
+1. open terminal
+2. navigate to free-jazz directory `cd ../free-jazz`
+3. open project directory in text editor (if using VS code, create and us terminal shell command `code .`)
+4. add/edit your code
+5. open new terminal tab
+6. start local server `python -m SimpleHTTPServer 8000`
+7. open browser and navigate to `localhost:8000` to view your code additions/edits
+8. when ready to publish, add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
 
 <!-- Notes about the deployment -->
 ### Deployment
