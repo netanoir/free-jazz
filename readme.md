@@ -71,6 +71,7 @@ This is README template is licensed according to [Attribution 4.0 International 
 <!-- thank and reference all the things that made your project happen -->
 ## Acknowledgements
 
+* Made under the instruction of [Joey Lee](https://jk-lee.com/)
 * [Bomani McClendon](https://bomani.xyz), who helped me troubleshoot
 * [The replacements poster](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual reference for design
 * [Flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), reference for flexible css squares
