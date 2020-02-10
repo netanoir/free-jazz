@@ -43,7 +43,7 @@ after installing the prerequisites, follow the following steps:
 1. open terminal
 2. create free-jazz directory `mkdir free-jazz`
 3. track changes `git init `
-4. open project directory in text editor (if using vs code, create and us terminal shell command `code .`)
+4. open project directory in text editor (if using vs code, create and use terminal shell command `code .`)
 5. add/edit your code
 6. open new terminal tab
 7. start local server `python -m SimpleHTTPServer 8000`
@@ -79,6 +79,6 @@ this readme template is licensed according to [attribution 4.0 international (cc
 * [Joey Lee](https://jk-lee.com/), who taught me and introduced this as an [assignment](https://github.com/itp-dwd/2020-spring/blob/master/weeks/02_front-end-foundations.md)
 * [Bomani McClendon](https://bomani.xyz), who helped me troubleshoot
 * [the replacements](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual poster reference for design
-* [flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), help with flexible css squares
+* [flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), help with coding square grids
 * [css tricks](https://css-tricks.com/the-shapes-of-css/), help with drawing shapes in css
 * [creative commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
