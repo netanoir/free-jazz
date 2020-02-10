@@ -1,115 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
 body {
+    font-family: 'Muli', sans-serif;
     background: black;
     color: #fff;
     max-width: 100%;
     margin: 0 auto;
   }
 
-  h1 {
-      font-size: 3rem;
-      line-height: 2.5rem;
-      margin-top: 1rem;
-      margin-bottom: 5rem;
-      margin-left: 1rem;
-      /* border-bottom: 1px solid; */
-  }
+h1 {
+  font-size: 3rem;
+  line-height: 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 5rem;
+  margin-left: 1rem;
+  /* border-bottom: 1px solid; */
+}
 
-  h2 {
-      font-size: 1rem;
-      line-height:1.5rem;
-      margin-left: 1rem;
-      border-bottom: 1px solid;
-  }
+h2 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-left: 1rem;
+  border-bottom: 1px solid;
+}
 
-  p {
-    margin-top: 1rem;
-    margin-left: 1rem;
-  }
+p {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: #fff;
+  cursor: help;
+}
+
+/* container code by bomani mcclendon */
+.content-container {
+  margin: 0px 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  wrap: no-wrap;
+}
 
 .grid {
-    display: flex;
-    flex: 1 1 0px;
-    flex-direction: row;
-    justify-content: flex-start;
-    /* align-items: stretch; */
-    flex-wrap: nowrap;
-    width: 100%;
-
+  display: flex;
+  flex: 1 1 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  /* align-items: stretch; */
+  flex-wrap: nowrap;
+  width: 100%;
 }
 
 .content {
-    /* equally distribute */
-    flex-grow: 1;
-    flex: 1 1 1rem;
-    margin-right: 0.5rem;
+  /* equally distribute */
+  flex-grow: 1;
+  flex: 1 1 1rem;
+  margin-right: 0.5rem;
+}
 
+.shapes {
+  align-items: center;
 }
 
 /* shapes */
 #circle {
-    width: 20rem;
-    height: 20rem;
-    margin: auto;
-    background: black;
-    border-radius: 50%;
-  }
+  width: 20rem;
+  height: 20rem;
+  margin: auto;
+  background: black;
+  border-radius: 50%;
+}
 
-  #triangle-topright {
-    width: 0;
-    height: 0;
-    border-top: 20rem solid black;
-    border-left: 20rem solid transparent;
-  }
+#triangle-topright {
+  width: 0;
+  height: 0;
+  border-top: 20rem solid black;
+  border-left: 20rem solid transparent;
+}
 
-  .shape-wrapper {
-    margin: 0px;
-    position: relative;
-    width: 100%;
-    height: auto;
+.shape-wrapper {
+  margin: 0px;
+  position: relative;
+  width: 100%;
+  height: auto;
 }
 
 .row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 1;
+}
+
 .column {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
 .shape-grid {
-    display: flex;
-    padding: 0;
+  display: flex;
+  padding: 0;
 }
 
 .shape-cell {
-    display: inline-block;
-    margin: auto;
-    vertical-align: top;
-    width: 100%;
+  display: inline-block;
+  margin: auto;
+  vertical-align: top;
+  width: 100%;
 }
 
 .square-size {
-    /* width: 25%;
+  /* width: 25%;
     padding-bottom: 0; */
 }
 
 .blue-fill {
-      background-color: hotpink;
-  }
+  background-color: hotpink;
+}
 
 .purple-fill {
-    background-color: tomato;
+  background-color: tomato;
 }
 
 .pink-fill {
-    background-color: lightpink;
+  background-color: lightpink;
 }
 
 .yellow-fill {
-    background-color: gold;
+  background-color: gold;
 }
-
