@@ -62,11 +62,11 @@ after installing the prerequisites, follow the following steps:
 
 ## code of conduct
 
-please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
+please read the [code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
 
 ## License
 
-this README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
+this readme template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- thank and reference all the things that made your project happen -->
 ## acknowledgements
