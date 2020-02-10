@@ -69,7 +69,7 @@ after installing the prerequisites, follow the following steps:
 
 please read the [code of conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
 
-## License
+## license
 
 this readme template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
 
