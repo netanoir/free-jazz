@@ -5,7 +5,7 @@ taught by [fred moten](https://tisch.nyu.edu/about/directory/performance-studies
 written by [neta bomani](https://netabomani.com)
 
 <!-- A one sentence description of the project or assignment -->
-this web zine is a synthesis of notes from fred moten's free jazz class a NYU. 
+this web zine is a synthesis of notes from fred moten's free jazz class a new york university. 
 View online [here](https://netanoir-free-jazz.glitch.me/).
 
 <!-- It is essential to describe how to set up your project -->
@@ -23,7 +23,15 @@ View online [here](https://netanoir-free-jazz.glitch.me/).
 <!-- any installation needs should be defined -->
 ### Installation
 
-For this particular project, there are no specific installation requirements, however you might look at some open source projects for inspiration about how to write good installation notes. You can see one example in this [Installing Node.js Guide](../guides/installing-nodejs.md).
+After installing the prerequisites, follow the following steps:
+1. open terminal
+2. navigate to free-jazz directory `cd ../free-jazz`
+3. open project directory in text editor (if using VS code, create and us terminal shell command `code .`)
+4. add/edit your code
+5. open new terminal tab
+6. start local server `python -m SimpleHTTPServer 8000`
+7. open browser and navigate to `localhost:8000` to view your code additions/edits
+8. when ready to publish, add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
 
 <!-- Write instructions on how to start working on your project -->
 ### Develop
