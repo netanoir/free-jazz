@@ -1,6 +1,5 @@
 <!-- Every README should start with an H1 -->
-# free jazz
-## the realistic spot
+# free jazz: the realistic spot
 taught by [fred moten](https://tisch.nyu.edu/about/directory/performance-studies/fred-moten)
 written by [neta bomani](https://netabomani.com)
 
@@ -32,16 +31,18 @@ To add to this zine, you can follow the steps provided below:
 6. have a nice chat and communication with me about those changes. 
 7. celebrate the contribution! 
 
-### Develop in depth
+### Develop from scratch
 After installing the prerequisites, follow the following steps:
 1. open terminal
-2. navigate to free-jazz directory `cd ../free-jazz`
-3. open project directory in text editor (if using VS code, create and us terminal shell command `code .`)
-4. add/edit your code
-5. open new terminal tab
-6. start local server `python -m SimpleHTTPServer 8000`
-7. open browser and navigate to `localhost:8000` to view your code additions/edits
-8. when ready to publish, add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
+2. create free-jazz directory `mkdir free-jazz`
+3. track changes `git init `
+4. open project directory in text editor (if using VS code, create and us terminal shell command `code .`)
+5. add/edit your code
+6. open new terminal tab
+7. start local server `python -m SimpleHTTPServer 8000`
+8. open browser and navigate to `localhost:8000` to view your code additions/edits
+8. when ready to publish repository, open github desktop app > add existing repository > navigate to free-jazz directory in finder
+9. add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
 
 <!-- Notes about the deployment -->
 ### Deployment
@@ -68,5 +69,8 @@ This is README template is licensed according to [Attribution 4.0 International 
 <!-- thank and reference all the things that made your project happen -->
 ## Acknowledgements
 
-* [Bomani McClendon][https://bomani.xyz], who helped me troubleshoot
+* [Bomani McClendon](https://bomani.xyz), who helped me troubleshoot
+* [The replacements poster](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual reference for design
+* [Flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), reference for flexible css squares
+* [CSS Tricks](https://css-tricks.com/the-shapes-of-css/), "The Shapes of CSS"
 * [Creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
