@@ -42,7 +42,7 @@ a:hover {
 
 /* container code by bomani mcclendon */
 .content-container {
-  margin: 0px 20%;
+  margin: 0px 25rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
