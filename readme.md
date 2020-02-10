@@ -28,7 +28,7 @@ For this particular project, there are no specific installation requirements, ho
 <!-- Write instructions on how to start working on your project -->
 ### Develop
 
-To add annotations to this essay, you can follow the steps provided below:
+To add to this zine, you can follow the steps provided below:
 1. create a fork of this project on Github
 2. ping the author of this repo via Github Issues to see if they are looking for contributions on the specific feature you're looking to add
 3. open the file in VS Code and make updates 
@@ -50,8 +50,6 @@ To add annotations to this essay, you can follow the steps provided below:
 ## Authors
 
 * [neta bomani](https://netabomani.com)
-* [Audre Lorde](https://alp.org/about/audre)
-* [Hugo Giraudel](https://codepen.io/SitePoint/pen/QbMgvY), who wrote the CSS code for the footnotes
 
 ## Code of Conduct
 
@@ -64,5 +62,5 @@ This is README template is licensed according to [Attribution 4.0 International 
 <!-- thank and reference all the things that made your project happen -->
 ## Acknowledgements
 
-* Elizabeth Perez, who encouraged me to pursue this idea
+* [Bomani McClendon][https://bomani.xyz], who helped me troubleshoot
 * [Creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
