@@ -6,8 +6,13 @@ written by [neta bomani](https://netabomani.com)
 ![a screenshot of the webpage, which is stylized in minimal swiss design](screenshot.png)
 
 <!-- A one sentence description of the project or assignment -->
-this web zine is a synthesis of notes from fred moten's free jazz class a new york university. 
-view online [here](https://netanoir-free-jazz.glitch.me/).
+a web zine which synthesizes notes from fred moten's free jazz class at new york university. 
+view online [here](https://netanoir-free-jazz.glitch.me/). 
+
+this project is a work in progress. the following is left to do:
+* make responsive, fix media tags, etc.
+* add images, notes & other pages
+* add more notes from class
 
 <!-- It is essential to describe how to set up your project -->
 ## setup
