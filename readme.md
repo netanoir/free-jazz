@@ -7,34 +7,34 @@ written by [neta bomani](https://netabomani.com)
 
 <!-- A one sentence description of the project or assignment -->
 this web zine is a synthesis of notes from fred moten's free jazz class a new york university. 
-View online [here](https://netanoir-free-jazz.glitch.me/).
+view online [here](https://netanoir-free-jazz.glitch.me/).
 
 <!-- It is essential to describe how to set up your project -->
-## Setup
+## setup
 
 <!-- Any knowledge or tools you will need before hand -->
-### Prerequisites and installation
+### prerequisites and installation
 
 1. Terminal
-2. [Git](https://git-scm.com/downloads) and [github desktop app](https://desktop.github.com/)
-3. A local server ([Python simple server](https://docs.python.org/2/library/simplehttpserver.html))
-3. A text editor ([VS Code](https://code.visualstudio.com/))
-4. Deployer ([Glitch](https://glitch.me))
+2. [git](https://git-scm.com/downloads) and [github desktop app](https://desktop.github.com/)
+3. A local server ([python simple server](https://docs.python.org/2/library/simplehttpserver.html))
+3. A text editor ([vs Code](https://code.visualstudio.com/))
+4. deployment tool ([glitch](https://glitch.me))
 
 <!-- Write instructions on how to start working on your project -->
-### Develop
+### develop
 
 To add to this zine, you can follow the steps provided below:
 1. create a fork of this project on Github
 2. ping the author of this repo via Github Issues to see if they are looking for contributions on the specific feature you're looking to add
-3. open the file in VS Code and make updates 
+3. open the file in vs Code and make updates 
 4. add and commit those changes in your forked github repo
 5. make a pull request specifying what additions and changes were made
 6. have a nice chat and communication with me about those changes. 
 7. celebrate the contribution! 
 
-### Develop from scratch
-After installing the prerequisites, follow the following steps:
+### (develop) from scratch
+after installing the prerequisites, follow the following steps:
 1. open terminal
 2. create free-jazz directory `mkdir free-jazz`
 3. track changes `git init `
@@ -47,33 +47,33 @@ After installing the prerequisites, follow the following steps:
 9. add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
 
 <!-- Notes about the deployment -->
-### Deployment
+### deployment
 
-## Built with
+## built with
 
 * Terminal
 * [VS Code](https://code.visualstudio.com/)
 * [Github](https://github.com) 
 * [Glitch](https://glitch.me)
 
-## Authors
+## authors
 
-* [neta bomani](https://netabomani.com)
+[neta bomani](https://netabomani.com)
 
-## Code of Conduct
+## code of conduct
 
-Please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
+please read the [CODE OF CONDUCT](https://www.mozilla.org/en-US/about/governance/policies/participation/) 
 
 ## License
 
-This is README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
+this README template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- thank and reference all the things that made your project happen -->
-## Acknowledgements
+## acknowledgements
 
-* Made under the instruction of [Joey Lee](https://jk-lee.com/)
+* [Joey Lee](https://jk-lee.com/), who this was made under the instruction of 
 * [Bomani McClendon](https://bomani.xyz), who helped me troubleshoot
-* [The replacements poster](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual reference for design
-* [Flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), reference for flexible css squares
-* [CSS Tricks](https://css-tricks.com/the-shapes-of-css/), "The Shapes of CSS"
-* [Creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
+* [the replacements](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual poster reference for design
+* [flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), help with flexible css squares
+* [css tricks](https://css-tricks.com/the-shapes-of-css/), help with drawing shapes in css
+* [creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
