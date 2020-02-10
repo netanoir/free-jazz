@@ -76,7 +76,7 @@ this readme template is licensed according to [attribution 4.0 international (cc
 <!-- thank and reference all the things that made your project happen -->
 ## acknowledgements
 
-* [Joey Lee](https://jk-lee.com/), who taught me and introducted this as an [assignment](https://github.com/itp-dwd/2020-spring/blob/master/weeks/02_front-end-foundations.md)
+* [Joey Lee](https://jk-lee.com/), who taught me and introduced this as an [assignment](https://github.com/itp-dwd/2020-spring/blob/master/weeks/02_front-end-foundations.md)
 * [Bomani McClendon](https://bomani.xyz), who helped me troubleshoot
 * [the replacements](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual poster reference for design
 * [flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), help with flexible css squares
