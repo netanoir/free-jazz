@@ -71,14 +71,14 @@ please read the [code of conduct](https://www.mozilla.org/en-US/about/governance
 
 ## license
 
-this readme template is licensed according to [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0/)
+this readme template is licensed according to [attribution 4.0 international (cc by 4.0) ](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- thank and reference all the things that made your project happen -->
 ## acknowledgements
 
-* [Joey Lee](https://jk-lee.com/), who this was made under the instruction of 
+* [Joey Lee](https://jk-lee.com/), who taught me and introducted this as an [assignment](https://github.com/itp-dwd/2020-spring/blob/master/weeks/02_front-end-foundations.md)
 * [Bomani McClendon](https://bomani.xyz), who helped me troubleshoot
 * [the replacements](https://www.swissted.com/products/the-replacements-at-cabaret-metro-1985), visual poster reference for design
 * [flexible squares](https://codepen.io/stevemckinney/pen/dGzXwO), help with flexible css squares
 * [css tricks](https://css-tricks.com/the-shapes-of-css/), help with drawing shapes in css
-* [creative Commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
+* [creative commons](https://creativecommons.org/licenses/by/4.0/) for their licensing documentation
