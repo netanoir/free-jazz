@@ -18,7 +18,7 @@ view online [here](https://netanoir-free-jazz.glitch.me/).
 1. Terminal
 2. [git](https://git-scm.com/downloads) and [github desktop app](https://desktop.github.com/)
 3. A local server ([python simple server](https://docs.python.org/2/library/simplehttpserver.html))
-3. A text editor ([vs Code](https://code.visualstudio.com/))
+3. A text editor ([vs code](https://code.visualstudio.com/))
 4. deployment tool ([glitch](https://glitch.me))
 
 <!-- Write instructions on how to start working on your project -->
