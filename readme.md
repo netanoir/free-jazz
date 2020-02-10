@@ -3,6 +3,8 @@
 taught by [fred moten](https://tisch.nyu.edu/about/directory/performance-studies/fred-moten)
 written by [neta bomani](https://netabomani.com)
 
+![a screenshot of the webpage, which is stylized in minimal swiss design](screenshot.png)
+
 <!-- A one sentence description of the project or assignment -->
 this web zine is a synthesis of notes from fred moten's free jazz class a new york university. 
 View online [here](https://netanoir-free-jazz.glitch.me/).
