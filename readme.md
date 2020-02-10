@@ -43,7 +43,7 @@ after installing the prerequisites, follow the following steps:
 1. open terminal
 2. create free-jazz directory `mkdir free-jazz`
 3. track changes `git init `
-4. open project directory in text editor (if using vs code, create and use terminal shell command `code .`)
+4. open project directory in text editor (if using vs code, create and use terminal shell command `code .`
 5. add/edit your code
 6. open new terminal tab
 7. start local server `python -m SimpleHTTPServer 8000`
