@@ -30,9 +30,9 @@ this project is a work in progress. the following is left to do:
 ### develop
 
 To add to this zine, you can follow the steps provided below:
-1. create a fork of this project on Github
-2. ping the author of this repo via Github Issues to see if they are looking for contributions on the specific feature you're looking to add
-3. open the file in vs Code and make updates 
+1. create a fork of this project on github
+2. ping the author of this repo via github issues to see if they are looking for contributions on the specific feature you're looking to add
+3. open the file in vs code and make updates 
 4. add and commit those changes in your forked github repo
 5. make a pull request specifying what additions and changes were made
 6. have a nice chat and communication with me about those changes. 
@@ -43,7 +43,7 @@ after installing the prerequisites, follow the following steps:
 1. open terminal
 2. create free-jazz directory `mkdir free-jazz`
 3. track changes `git init `
-4. open project directory in text editor (if using VS code, create and us terminal shell command `code .`)
+4. open project directory in text editor (if using vs code, create and us terminal shell command `code .`)
 5. add/edit your code
 6. open new terminal tab
 7. start local server `python -m SimpleHTTPServer 8000`
