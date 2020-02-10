@@ -57,7 +57,7 @@ after installing the prerequisites, follow the following steps:
 ## built with
 
 * terminal
-* [vs Code](https://code.visualstudio.com/)
+* [vs code](https://code.visualstudio.com/)
 * [github](https://github.com) 
 * [glitch](https://glitch.me)
 
