@@ -49,7 +49,7 @@ after installing the prerequisites, follow the following steps:
 7. start local server `python -m SimpleHTTPServer 8000`
 8. open browser and navigate to `localhost:8000` to view your code additions/edits
 8. when ready to publish repository, open github desktop app > add existing repository > navigate to free-jazz directory in finder
-9. add new files `git add .`, commit changes `git commit -m "my changes"`, and add to repository `git push`
+9. add new files `git add .`, commit changes `git commit -m "notes about changes"`, and add to repository `git push`
 
 <!-- Notes about the deployment -->
 ### deployment
