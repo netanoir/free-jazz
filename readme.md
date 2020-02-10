@@ -15,10 +15,10 @@ view online [here](https://netanoir-free-jazz.glitch.me/).
 <!-- Any knowledge or tools you will need before hand -->
 ### prerequisites and installation
 
-1. Terminal
+1. terminal
 2. [git](https://git-scm.com/downloads) and [github desktop app](https://desktop.github.com/)
-3. A local server ([python simple server](https://docs.python.org/2/library/simplehttpserver.html))
-3. A text editor ([vs code](https://code.visualstudio.com/))
+3. local server ([python simple server](https://docs.python.org/2/library/simplehttpserver.html))
+3. text editor ([vs code](https://code.visualstudio.com/))
 4. deployment tool ([glitch](https://glitch.me))
 
 <!-- Write instructions on how to start working on your project -->
@@ -51,10 +51,10 @@ after installing the prerequisites, follow the following steps:
 
 ## built with
 
-* Terminal
-* [VS Code](https://code.visualstudio.com/)
-* [Github](https://github.com) 
-* [Glitch](https://glitch.me)
+* terminal
+* [vs Code](https://code.visualstudio.com/)
+* [github](https://github.com) 
+* [glitch](https://glitch.me)
 
 ## authors
 
